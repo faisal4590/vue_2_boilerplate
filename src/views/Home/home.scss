@@ -1,0 +1,9 @@
+/* Variables(Home.vue) */
+$home_font: rgba(152, 33, 199, 0.61);
+
+/* Mixins(Home.vue) */
+// add some mixin
+
+.home {
+  color: $home_font;
+}

@@ -1,0 +1,17 @@
+// import * as env_const from '../../conf/env_const.js';
+// import axios from 'axios';
+
+const state = {};
+
+const getters = {};
+
+const actions = {};
+
+const mutations = {};
+
+export default {
+  state,
+  getters,
+  actions,
+  mutations,
+};
